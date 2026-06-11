@@ -1,0 +1,6 @@
+{
+	"appId": "com.washingdaddy.app",
+	"appName": "Washing Daddy",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

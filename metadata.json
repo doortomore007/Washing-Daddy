@@ -1,0 +1,10 @@
+{
+  "name": "Washing Daddy",
+  "description": "Daily Car Care, Delivered. Subscription-based car wash service with live tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
